@@ -1,1 +1,1 @@
-# open-cv-tutorials-python
+# Computer Vision using Open CV
